@@ -34,7 +34,7 @@ let dohURL = 'https://sky.rethinkdns.com/1:-Pf_____9_8A_AMAIgE8kMABVDDmKOHTAKg='
 
 // Preferred address API interface
 let ipUrlTxt = [
-	'https://raw.githubusercontent.com/chai1713/youxuanip/refs/heads/main/los-LUODI-IP.txt?token=GHSAT0AAAAAACZDFKNID7FJ4V25FDFQKJV4ZYRCNUQ',
+	'https://raw.githubusercontent.com/chai1713/IP/refs/heads/main/los-IP.txt',
 	// 'https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv6.txt'
 ];
 let ipUrlCsv = [
